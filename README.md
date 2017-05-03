@@ -6,5 +6,3 @@ Should include the following three .py files:
   * entertainment_center.py
   
 Run entertainment_center.py to see the website.
-The Movie class is written in media.py
-And fresh_tomatoes.py was a module provided by Udacity.
